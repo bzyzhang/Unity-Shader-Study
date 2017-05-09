@@ -1,15 +1,34 @@
 Base path: C:/unity5_2_5/Unity/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-32bit-1-24828
+Pipe name: \\.\pipe\UnityShaderCompiler-32bit-1-24288
 Cmd: getPlatforms
 Cmd: preprocess
-  insize=958 outsize=257 ok=1
+  insize=957 outsize=256 ok=1
 Cmd: preprocess
-  insize=1002 outsize=288 ok=1
+  insize=1057 outsize=287 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=1013 outsize=1851 kw= pd= ok=1
+  api=4 type=0 insize=1069 outsize=1152 kw= pd= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=1013 outsize=559 kw= pd= ok=1
+  api=4 type=1 insize=1069 outsize=1249 kw= pd= ok=1
+Cmd: preprocess
+  insize=951 outsize=250 ok=1
+Cmd: preprocess
+  insize=1116 outsize=280 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=541 outsize=3533 kw=SHADOWS_DEPTH pd= ok=1
+  error: 2 plat 4 at (46): Illegal character in shader file\nCompiling Vertex program
+  api=4 type=0 insize=1135 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=1090 outsize=280 ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=541 outsize=453 kw=SHADOWS_DEPTH pd= ok=1
+  error: 2 plat 4 at (46): Illegal character in shader file\nCompiling Vertex program
+  api=4 type=0 insize=1109 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=1092 outsize=280 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (46): Illegal character in shader file\nCompiling Vertex program
+  api=4 type=0 insize=1111 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=1091 outsize=280 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1110 outsize=1152 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1110 outsize=1323 kw= pd= ok=1
