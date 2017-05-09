@@ -1,100 +1,15 @@
 Base path: C:/unity5_2_5/Unity/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-32bit-1-19364
+Pipe name: \\.\pipe\UnityShaderCompiler-32bit-1-24828
 Cmd: getPlatforms
 Cmd: preprocess
-  insize=952 outsize=251 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=1000 outsize=1087 kw= pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=1000 outsize=616 kw= pd= ok=1
+  insize=958 outsize=257 ok=1
 Cmd: preprocess
-  insize=339 outsize=163 ok=1
+  insize=1002 outsize=288 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=473 outsize=778 kw= pd= ok=1
+  api=4 type=0 insize=1013 outsize=1851 kw= pd= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=473 outsize=380 kw= pd= ok=1
+  api=4 type=1 insize=1013 outsize=559 kw= pd= ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=751 outsize=3533 kw=SHADOWS_DEPTH pd= ok=1
+  api=4 type=0 insize=541 outsize=3533 kw=SHADOWS_DEPTH pd= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=751 outsize=380 kw=SHADOWS_DEPTH pd= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=982 outsize=3979 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=982 outsize=10618 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=938 outsize=4101 kw=DIRECTIONAL SHADOWS_OFF pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=938 outsize=5515 kw=DIRECTIONAL SHADOWS_OFF pd= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=982 outsize=4337 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=982 outsize=10926 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
-Cmd: preprocess
-  insize=339 outsize=163 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=473 outsize=778 kw= pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=473 outsize=380 kw= pd= ok=1
-Cmd: preprocess
-  insize=339 outsize=163 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=473 outsize=778 kw= pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=473 outsize=380 kw= pd= ok=1
-Cmd: preprocess
-  insize=339 outsize=163 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=473 outsize=778 kw= pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=473 outsize=380 kw= pd= ok=1
-Cmd: preprocess
-  insize=339 outsize=163 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=473 outsize=778 kw= pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=473 outsize=380 kw= pd= ok=1
-Cmd: preprocess
-  insize=339 outsize=163 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=473 outsize=778 kw= pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=473 outsize=380 kw= pd= ok=1
-Cmd: preprocess
-  insize=339 outsize=163 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=473 outsize=778 kw= pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=473 outsize=380 kw= pd= ok=1
-Cmd: preprocess
-  insize=339 outsize=163 ok=1
-Cmd: preprocess
-  insize=819 outsize=163 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=953 outsize=908 kw= pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=953 outsize=380 kw= pd= ok=1
-Cmd: preprocess
-  insize=807 outsize=163 ok=1
-Cmd: compileSnippet
-  error: 2 plat 4 at (22): 'vert': function return value missing semantics\nCompiling Vertex program
-  api=4 type=0 insize=941 outsize=0 kw= pd= ok=0
-Cmd: preprocess
-  insize=819 outsize=163 ok=1
-Cmd: preprocess
-  insize=1475 outsize=163 ok=1
-Cmd: compileSnippet
-  error: 2 plat 4 at (31): invalid output semantic 'SV_POSITION': Legal indices are in [0,0]\nCompiling Vertex program
-  error: 1 plat 4 at (31): semantics in type overridden by variable/function or enclosing type\nCompiling Vertex program
-  api=4 type=0 insize=1609 outsize=0 kw= pd= ok=0
-Cmd: preprocess
-  insize=1463 outsize=163 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=1597 outsize=1144 kw= pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=1597 outsize=559 kw= pd= ok=1
-Cmd: preprocess
-  insize=1714 outsize=268 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=1745 outsize=1144 kw= pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=1745 outsize=616 kw= pd= ok=1
+  api=4 type=1 insize=541 outsize=453 kw=SHADOWS_DEPTH pd= ok=1
