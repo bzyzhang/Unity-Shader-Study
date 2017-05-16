@@ -1,3 +1,18 @@
 Base path: C:/unity5_2_5/Unity/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-32bit-1-26440
+Pipe name: \\.\pipe\UnityShaderCompiler-32bit-1-22396
 Cmd: getPlatforms
+Cmd: preprocess
+  insize=953 outsize=252 ok=1
+Cmd: preprocess
+  insize=1725 outsize=372 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (63): 'saturate': no matching 2 parameter intrinsic function; Possible intrinsic functions are: saturate(float|half|double|min10float|min16float)\nCompiling Vertex program
+  api=4 type=0 insize=1652 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=1735 outsize=372 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1662 outsize=2436 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1662 outsize=2484 kw= pd= ok=1
+Cmd: preprocess
+  insize=1757 outsize=394 ok=1
