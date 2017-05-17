@@ -57,8 +57,8 @@
 				float3x3 rotation = float3x3(v.tangent.xyz,binormal,v.normal);
 				//TANGENT_SPACE_ROTATION;
 
-				o.lightDir = mul(rotation,objSpaceLightDir(v.vertex)).xyz;
-				o.viewDir = mul(rotation,objSpaceViewDir(v.vertex)).xyz;
+				o.lightDir = mul(rotation,ObjSpaceLightDir(v.vertex)).xyz;
+				o.viewDir = mul(rotation,ObjSpaceViewDir(v.vertex)).xyz;
 
 				return o;
 			}
@@ -84,7 +84,7 @@
 				fixed3 diffuse = _LightColor0.rgb*albedo*saturate(dot(tangentNormal,tangentViewDir));
 
 				fixed3 halfDir = normalize(tangentLightDir+tangentViewDir);
-				fixed3 specular = _LightColor0.rgb*_Specular.rgb*pow(saturate(tangentNormal,halfDir),_Gloss);
+				fixed3 specular = _LightColor0.rgb*_Specular.rgb*pow(saturate(dot(tangentNormal,halfDir)),_Gloss);
 				
 				return fixed4(ambient+diffuse+specular,1.0);
 			}

@@ -1,10 +1,19 @@
 Base path: C:/unity5_2_5/Unity/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-32bit-1-17024
+Pipe name: \\.\pipe\UnityShaderCompiler-32bit-1-25420
 Cmd: getPlatforms
-Cmd: preprocess
-  insize=961 outsize=260 ok=1
 Cmd: preprocess
   insize=2475 outsize=485 ok=1
 Cmd: compileSnippet
-  error: 2 plat 4 at (60): undeclared identifier 'objSpaceLightDir'\nCompiling Vertex program
+  error: 2 plat 4 at (61): undeclared identifier 'objSpaceViewDir'\nCompiling Vertex program
   api=4 type=0 insize=2289 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=2475 outsize=485 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (87): 'saturate': no matching 2 parameter intrinsic function; Possible intrinsic functions are: saturate(float|half|double|min10float|min16float)\nCompiling Vertex program
+  api=4 type=0 insize=2289 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=2480 outsize=485 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2294 outsize=3224 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2294 outsize=2631 kw= pd= ok=1
