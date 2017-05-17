@@ -25,7 +25,7 @@
 			float4 _MainTex_ST;
 			sampler2D _BumpMap;
 			float4 _BumpMap_ST;
-			float4 _BumpScale;
+			float _BumpScale;
 			fixed4 _Specular;
 			float _Gloss;
 

@@ -1,19 +1,81 @@
 Base path: C:/unity5_2_5/Unity/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-32bit-1-25420
+Pipe name: \\.\pipe\UnityShaderCompiler-32bit-1-24412
 Cmd: getPlatforms
 Cmd: preprocess
-  insize=2475 outsize=485 ok=1
+  insize=2479 outsize=484 ok=1
 Cmd: compileSnippet
-  error: 2 plat 4 at (61): undeclared identifier 'objSpaceViewDir'\nCompiling Vertex program
-  api=4 type=0 insize=2289 outsize=0 kw= pd= ok=0
+  api=4 type=0 insize=2293 outsize=3224 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2293 outsize=2631 kw= pd= ok=1
 Cmd: preprocess
-  insize=2475 outsize=485 ok=1
-Cmd: compileSnippet
-  error: 2 plat 4 at (87): 'saturate': no matching 2 parameter intrinsic function; Possible intrinsic functions are: saturate(float|half|double|min10float|min16float)\nCompiling Vertex program
-  api=4 type=0 insize=2289 outsize=0 kw= pd= ok=0
+  insize=959 outsize=258 ok=1
 Cmd: preprocess
-  insize=2480 outsize=485 ok=1
+  insize=2594 outsize=483 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=2294 outsize=3224 kw= pd= ok=1
+  error: 2 plat 4 at (78): invalid subscript 'ttow1'\nCompiling Vertex program
+  api=4 type=0 insize=2410 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=2594 outsize=483 ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=2294 outsize=2631 kw= pd= ok=1
+  error: 2 plat 4 at (84): 'dot': no matching 2 parameter intrinsic function; Possible intrinsic functions are: dot(floatM|halfM|doubleM|min10floatM|min16floatM|intM|uintM|min12intM|min16intM|min16uintM, floatM|halfM|doubleM|min10floatM|min16floatM|intM|uintM|min12intM|min16intM|min16uintM)\nCompiling Vertex program
+  error: 2 plat 4 at (84): undeclared identifier 'tangentViewDir'\nCompiling Vertex program
+  api=4 type=0 insize=2410 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=2573 outsize=483 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2389 outsize=3801 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2389 outsize=3386 kw= pd= ok=1
+Cmd: preprocess
+  insize=951 outsize=250 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=751 outsize=3533 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=751 outsize=380 kw=SHADOWS_DEPTH pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=977 outsize=4703 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _NORMALMAP _SPECGLOSSMAP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=977 outsize=11284 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _NORMALMAP _SPECGLOSSMAP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=934 outsize=4101 kw=DIRECTIONAL SHADOWS_OFF _NORMALMAP _SPECGLOSSMAP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=934 outsize=6157 kw=DIRECTIONAL SHADOWS_OFF _NORMALMAP _SPECGLOSSMAP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=977 outsize=4703 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _DETAIL_MULX2 _NORMALMAP _SPECGLOSSMAP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=977 outsize=12730 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _DETAIL_MULX2 _NORMALMAP _SPECGLOSSMAP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=934 outsize=4101 kw=DIRECTIONAL SHADOWS_OFF _DETAIL_MULX2 _NORMALMAP _SPECGLOSSMAP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=934 outsize=7603 kw=DIRECTIONAL SHADOWS_OFF _DETAIL_MULX2 _NORMALMAP _SPECGLOSSMAP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=977 outsize=4703 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _DETAIL_MULX2 _NORMALMAP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=977 outsize=12738 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _DETAIL_MULX2 _NORMALMAP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=934 outsize=4101 kw=DIRECTIONAL SHADOWS_OFF _DETAIL_MULX2 _NORMALMAP pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=934 outsize=7587 kw=DIRECTIONAL SHADOWS_OFF _DETAIL_MULX2 _NORMALMAP pd= ok=1
+Cmd: preprocess
+  insize=1809 outsize=392 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (62): undeclared identifier '_color'\nCompiling Vertex program
+  api=4 type=0 insize=1716 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=1809 outsize=392 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1716 outsize=2436 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1716 outsize=2428 kw= pd= ok=1
+Cmd: preprocess
+  insize=1811 outsize=392 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1718 outsize=2460 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1718 outsize=2428 kw= pd= ok=1
+Cmd: preprocess
+  insize=1811 outsize=392 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1718 outsize=2484 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1718 outsize=2428 kw= pd= ok=1
