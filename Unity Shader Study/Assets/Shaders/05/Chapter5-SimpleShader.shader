@@ -1,4 +1,4 @@
-﻿Shader "Unity Shadrs Book/Chapter 5/Simple Shader"
+﻿Shader "Unity Shaders Book/Chapter 5/Simple Shader"
 {
 	Properties
 	{
