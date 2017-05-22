@@ -13,9 +13,13 @@
 		Pass
 		{
 			Tags {"LightMode"="ForwardBase"}
+
+			Cull Off
+
 			CGPROGRAM
 			#pragma vertex vert
 			#pragma fragment frag
+			#pragma multi_compile_fwdbase
 
 			#include "Lighting.cginc"
 			#include "AutoLight.cginc"
@@ -71,11 +75,11 @@
 
 				UNITY_LIGHT_ATTENUATION(atten,i,i.worldPos);
 				
-				return fixed4(ambient+diffuse,1.0);
+				return fixed4(ambient+diffuse*atten,1.0);
 			}
 			ENDCG
 		}
 	}
 
-	FallBack "Transparent/Cutout/Vertexlit"
+	FallBack "Transparent/Cutout/VertexLit"
 }
