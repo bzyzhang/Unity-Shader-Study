@@ -1,77 +1,21 @@
 Base path: C:/unity5_2_5/Unity/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-32bit-1-17352
+Pipe name: \\.\pipe\UnityShaderCompiler-32bit-1-7888
 Cmd: getPlatforms
-Cmd: compileSnippet
-  api=4 type=0 insize=1333 outsize=1404 kw= pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=1333 outsize=1168 kw= pd= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=1329 outsize=1404 kw= pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=1329 outsize=1168 kw= pd= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=1329 outsize=1404 kw= pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=1329 outsize=1168 kw= pd= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=1333 outsize=1404 kw= pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=1333 outsize=1168 kw= pd= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=1321 outsize=1404 kw= pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=1321 outsize=1168 kw= pd= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=1331 outsize=1404 kw= pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=1331 outsize=1168 kw= pd= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=982 outsize=5580 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _PARALLAXMAP _NORMALMAP pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=982 outsize=12169 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _PARALLAXMAP _NORMALMAP pd= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=938 outsize=5174 kw=DIRECTIONAL SHADOWS_OFF _PARALLAXMAP _NORMALMAP pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=938 outsize=6969 kw=DIRECTIONAL SHADOWS_OFF _PARALLAXMAP _NORMALMAP pd= ok=1
 Cmd: preprocess
-  insize=951 outsize=250 ok=1
+  insize=948 outsize=247 ok=1
 Cmd: preprocess
-  insize=1643 outsize=464 ok=1
+  insize=1934 outsize=471 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (71): syntax error: unexpected token 'half3'\nCompiling Vertex program with DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF
+  error: 2 plat 4 at (73): undeclared identifier 'diffuse'\nCompiling Vertex program with DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF
+  api=4 type=0 insize=1796 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=0
 Cmd: preprocess
-  insize=1861 outsize=453 ok=1
+  insize=1935 outsize=470 ok=1
 Cmd: compileSnippet
-  error: 2 plat 4 at (23): redefinition of '_ReflectColor'\nCompiling Vertex program
-  api=4 type=0 insize=1707 outsize=0 kw= pd= ok=0
-Cmd: preprocess
-  insize=1862 outsize=453 ok=1
+  api=4 type=0 insize=1797 outsize=2777 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
 Cmd: compileSnippet
-  error: 2 plat 4 at (31): unrecognized identifier 'SHADOW_COORDS'\nCompiling Vertex program
-  api=4 type=0 insize=1708 outsize=0 kw= pd= ok=0
-Cmd: preprocess
-  insize=1892 outsize=453 ok=1
+  api=4 type=1 insize=1797 outsize=2346 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=1738 outsize=2850 kw= pd= ok=1
+  api=4 type=0 insize=1797 outsize=3134 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=1738 outsize=1834 kw= pd= ok=1
-Cmd: preprocess
-  insize=1936 outsize=530 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=1739 outsize=2777 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=1739 outsize=1737 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=1739 outsize=3134 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=1739 outsize=2038 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
-Cmd: preprocess
-  insize=951 outsize=250 ok=1
-Cmd: preprocess
-  insize=2046 outsize=580 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=1799 outsize=3443 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=1799 outsize=1737 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=1799 outsize=3801 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=1799 outsize=2038 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+  api=4 type=1 insize=1797 outsize=2647 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
