@@ -72,7 +72,7 @@
 
 		Pass
 		{
-			NAME "vertBlurVertical"
+			NAME "GAUSSIAN_BLUR_VERTICAL"
 
 			CGPROGRAM
 
@@ -83,7 +83,7 @@
 
 		Pass
 		{
-			NAME "vertBlurHorizontal"
+			NAME "GAUSSIAN_BLUR_HORIZONTAL"
 
 			CGPROGRAM
 
