@@ -51,7 +51,7 @@ public class Bloom : PostEffectsBase
             }
 
             material.SetTexture("_Bloom",buffer0);
-            Graphics.Blit(buffer0, dest,material,3);
+            Graphics.Blit(src, dest,material,3);
             RenderTexture.ReleaseTemporary(buffer0);
         }
         else
