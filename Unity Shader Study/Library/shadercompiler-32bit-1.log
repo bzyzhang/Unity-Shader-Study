@@ -1,35 +1,149 @@
 Base path: C:/unity5_2_5/Unity/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-32bit-1-9728
+Pipe name: \\.\pipe\UnityShaderCompiler-32bit-1-2648
 Cmd: getPlatforms
 Cmd: preprocess
-  insize=966 outsize=265 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=1000 outsize=1404 kw=FOG_EXP2 pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=1000 outsize=973 kw=FOG_EXP2 pd= ok=1
+  insize=952 outsize=251 ok=1
 Cmd: preprocess
-  insize=2536 outsize=552 ok=1
-Cmd: compileSnippet
-  error: 2 plat 4 at (62): undeclared identifier 'CheckSame'\nCompiling Vertex program
-  api=4 type=0 insize=2287 outsize=0 kw= pd= ok=0
+  error: 2 plat 18 at (-1): No ENDCG tag found after CGPROGRAM tag
+  insize=2320 outsize=2317 ok=0
 Cmd: preprocess
-  insize=2536 outsize=551 ok=1
+  insize=2330 outsize=997 ok=1
 Cmd: compileSnippet
-  error: 2 plat 4 at (63): 'abs': no matching 2 parameter intrinsic function; Possible intrinsic functions are: abs(float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint)\nCompiling Vertex program
-  api=4 type=0 insize=2287 outsize=0 kw= pd= ok=0
+  error: 2 plat 4 at (55): unrecognized identifier 'SHADOW_COORDS'\nCompiling Vertex program with DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF
+  api=4 type=0 insize=1666 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=0
 Cmd: preprocess
-  insize=2535 outsize=551 ok=1
+  insize=2581 outsize=708 ok=1
 Cmd: compileSnippet
-  error: 2 plat 4 at (63): 'abs': no matching 2 parameter intrinsic function; Possible intrinsic functions are: abs(float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint)\nCompiling Vertex program
-  api=4 type=0 insize=2286 outsize=0 kw= pd= ok=0
+  api=4 type=0 insize=844 outsize=1818 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=844 outsize=510 kw= pd= ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (75): unrecognized identifier 'SHADOW_COORDS'\nCompiling Vertex program with DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF
+  api=4 type=0 insize=1666 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=0
 Cmd: preprocess
-  insize=2535 outsize=552 ok=1
+  insize=2610 outsize=709 ok=1
 Cmd: compileSnippet
-  error: 2 plat 4 at (33): 'vert': Not all control paths return a value\nCompiling Vertex program
-  api=4 type=0 insize=2286 outsize=0 kw= pd= ok=0
+  error: 2 plat 4 at (76): unrecognized identifier 'SHADOW_COORDS'\nCompiling Vertex program with DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF
+  api=4 type=0 insize=1695 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=0
 Cmd: preprocess
-  insize=2549 outsize=554 ok=1
+  insize=2640 outsize=708 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=2300 outsize=2013 kw= pd= ok=1
+  error: 2 plat 4 at (80): unrecognized identifier 'a2v'\nCompiling Vertex program with DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF
+  api=4 type=0 insize=1725 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=0
+Cmd: preprocess
+  insize=2751 outsize=708 ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=2300 outsize=3541 kw= pd= ok=1
+  error: 2 plat 4 at (91): undeclared identifier '_MainTex_ST'\nCompiling Vertex program with DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF
+  api=4 type=0 insize=1836 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=0
+Cmd: preprocess
+  insize=2882 outsize=709 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (128): 'step': no matching 3 parameter intrinsic function; Possible intrinsic functions are: step(float|half|min10float|min16float, float|half|min10float|min16float)\nCompiling Vertex program with DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF
+  api=4 type=0 insize=1967 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=0
+Cmd: preprocess
+  insize=2910 outsize=709 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (129): 'step': no matching 3 parameter intrinsic function; Possible intrinsic functions are: step(float|half|min10float|min16float, float|half|min10float|min16float)\nCompiling Vertex program with DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF
+  api=4 type=0 insize=1995 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=0
+Cmd: preprocess
+  insize=2951 outsize=708 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (130): 'step': no matching 3 parameter intrinsic function; Possible intrinsic functions are: step(float|half|min10float|min16float, float|half|min10float|min16float)\nCompiling Vertex program with DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF
+  api=4 type=0 insize=2036 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=0
+Cmd: preprocess
+  insize=2951 outsize=709 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (132): undeclared identifier 'specualr'\nCompiling Vertex program with DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF
+  api=4 type=0 insize=2036 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=0
+Cmd: preprocess
+  insize=2951 outsize=709 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2036 outsize=1826 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2036 outsize=3313 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: preprocess
+  insize=2980 outsize=707 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=873 outsize=1818 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=873 outsize=510 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2036 outsize=1826 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2036 outsize=3313 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: preprocess
+  insize=2980 outsize=707 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2036 outsize=2216 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2036 outsize=3630 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: preprocess
+  insize=3031 outsize=759 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=873 outsize=1818 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=873 outsize=510 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2036 outsize=1826 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2036 outsize=3313 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2036 outsize=2216 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2036 outsize=3630 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: preprocess
+  insize=3031 outsize=759 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=873 outsize=1859 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=873 outsize=510 kw= pd= ok=1
+Cmd: preprocess
+  insize=3037 outsize=759 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=879 outsize=1859 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=879 outsize=510 kw= pd= ok=1
+Cmd: preprocess
+  insize=3068 outsize=760 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2067 outsize=1891 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2067 outsize=3313 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2067 outsize=2281 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2067 outsize=3630 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: preprocess
+  insize=3065 outsize=759 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2064 outsize=2549 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2064 outsize=3313 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2064 outsize=2939 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2064 outsize=3630 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: preprocess
+  insize=3065 outsize=759 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=879 outsize=1859 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=879 outsize=510 kw= pd= ok=1
+Cmd: preprocess
+  insize=3301 outsize=814 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=929 outsize=1859 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=929 outsize=510 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2196 outsize=2549 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2196 outsize=3313 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2196 outsize=2939 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2196 outsize=3630 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: preprocess
+  insize=3065 outsize=759 ok=1
+Cmd: preprocess
+  insize=3301 outsize=814 ok=1
