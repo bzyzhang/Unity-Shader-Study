@@ -1,3 +1,35 @@
 Base path: C:/unity5_2_5/Unity/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-32bit-1-8652
+Pipe name: \\.\pipe\UnityShaderCompiler-32bit-1-9728
 Cmd: getPlatforms
+Cmd: preprocess
+  insize=966 outsize=265 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1000 outsize=1404 kw=FOG_EXP2 pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1000 outsize=973 kw=FOG_EXP2 pd= ok=1
+Cmd: preprocess
+  insize=2536 outsize=552 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (62): undeclared identifier 'CheckSame'\nCompiling Vertex program
+  api=4 type=0 insize=2287 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=2536 outsize=551 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (63): 'abs': no matching 2 parameter intrinsic function; Possible intrinsic functions are: abs(float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint)\nCompiling Vertex program
+  api=4 type=0 insize=2287 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=2535 outsize=551 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (63): 'abs': no matching 2 parameter intrinsic function; Possible intrinsic functions are: abs(float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint)\nCompiling Vertex program
+  api=4 type=0 insize=2286 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=2535 outsize=552 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (33): 'vert': Not all control paths return a value\nCompiling Vertex program
+  api=4 type=0 insize=2286 outsize=0 kw= pd= ok=0
+Cmd: preprocess
+  insize=2549 outsize=554 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2300 outsize=2013 kw= pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2300 outsize=3541 kw= pd= ok=1
