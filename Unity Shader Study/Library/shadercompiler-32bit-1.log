@@ -1,100 +1,47 @@
 Base path: C:/unity5_2_5/Unity/Editor/Data
-Pipe name: \\.\pipe\UnityShaderCompiler-32bit-1-8936
+Pipe name: \\.\pipe\UnityShaderCompiler-32bit-1-6544
 Cmd: getPlatforms
 Cmd: preprocess
-  insize=3330 outsize=708 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2957 outsize=4597 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=2957 outsize=2484 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2957 outsize=4987 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=2957 outsize=2801 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+  insize=950 outsize=249 ok=1
 Cmd: preprocess
-  insize=949 outsize=248 ok=1
+  insize=3135 outsize=712 ok=1
 Cmd: compileSnippet
-  api=4 type=0 insize=2763 outsize=4191 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+  api=4 type=0 insize=2758 outsize=4093 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
 Cmd: compileSnippet
-  api=4 type=1 insize=2763 outsize=3646 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+  api=4 type=1 insize=2758 outsize=4288 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2758 outsize=4093 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF VERTEXLIGHT_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2758 outsize=4288 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2758 outsize=4093 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF VERTEXLIGHT_ON pd= ok=1
 Cmd: preprocess
-  insize=2951 outsize=780 ok=1
+  insize=3133 outsize=712 ok=1
 Cmd: compileSnippet
-  error: 2 plat 4 at (62): undeclared identifier '_MainTex_ST'\nCompiling Vertex program with DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF
-  api=4 type=0 insize=2107 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=0
+  api=4 type=0 insize=2756 outsize=4093 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2756 outsize=4288 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2756 outsize=4093 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF VERTEXLIGHT_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2756 outsize=4288 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2756 outsize=4093 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF VERTEXLIGHT_ON pd= ok=1
 Cmd: preprocess
-  insize=2974 outsize=779 ok=1
-Cmd: compileSnippet
-  error: 2 plat 4 at (64): undeclared identifier '_BumpMap_ST'\nCompiling Vertex program with DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF
-  api=4 type=0 insize=2130 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=0
+  insize=3127 outsize=706 ok=1
 Cmd: preprocess
-  insize=3020 outsize=779 ok=1
+  insize=3657 outsize=957 ok=1
 Cmd: compileSnippet
-  error: 2 plat 4 at (69): invalid subscript 'normal' 'normalize': no matching 1 parameter intrinsic function; Possible intrinsic functions are: normalize(floatM|halfM|min10floatM|min16floatM)\nCompiling Vertex program with DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF
-  api=4 type=0 insize=2176 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=0
+  api=4 type=0 insize=3035 outsize=4093 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3035 outsize=4288 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3035 outsize=4093 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF VERTEXLIGHT_ON pd= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3035 outsize=4288 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
 Cmd: preprocess
-  insize=3078 outsize=779 ok=1
-Cmd: compileSnippet
-  error: 2 plat 4 at (101): 'step': no matching 3 parameter intrinsic function; Possible intrinsic functions are: step(float|half|min10float|min16float, float|half|min10float|min16float)\nCompiling Vertex program with DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF
-  api=4 type=0 insize=2234 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=0
+  insize=3127 outsize=706 ok=1
 Cmd: preprocess
-  insize=3078 outsize=779 ok=1
+  insize=3657 outsize=957 ok=1
 Cmd: compileSnippet
-  error: 2 plat 4 at (103): undeclared identifier 'finalcolor'\nCompiling Vertex program with DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF
-  api=4 type=0 insize=2234 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=0
-Cmd: preprocess
-  insize=3078 outsize=779 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2234 outsize=3094 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=2234 outsize=3199 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
-Cmd: compileSnippet
-  error: 2 plat 4 at (121): unrecognized identifier 'V2F_SHADOW_CASTER'\nCompiling Vertex program with SHADOWS_DEPTH
-  api=4 type=0 insize=740 outsize=0 kw=SHADOWS_DEPTH pd= ok=0
-Cmd: preprocess
-  insize=3107 outsize=779 ok=1
-Cmd: compileSnippet
-  error: 2 plat 4 at (132): undeclared identifier '_BurnMap_ST'\nCompiling Vertex program with SHADOWS_DEPTH
-  api=4 type=0 insize=769 outsize=0 kw=SHADOWS_DEPTH pd= ok=0
-Cmd: preprocess
-  insize=3176 outsize=779 ok=1
-Cmd: compileSnippet
-  error: 2 plat 4 at (136): undeclared identifier '_BurnMap_ST'\nCompiling Vertex program with SHADOWS_DEPTH
-  api=4 type=0 insize=838 outsize=0 kw=SHADOWS_DEPTH pd= ok=0
-Cmd: preprocess
-  insize=3176 outsize=779 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=838 outsize=3776 kw=SHADOWS_DEPTH pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=838 outsize=884 kw=SHADOWS_DEPTH pd= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2234 outsize=3484 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF VERTEXLIGHT_ON pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=2234 outsize=3516 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2234 outsize=3094 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF VERTEXLIGHT_ON pd= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2763 outsize=3801 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF VERTEXLIGHT_ON pd= ok=1
-Cmd: preprocess
-  insize=3226 outsize=830 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2234 outsize=3094 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=2234 outsize=3199 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=838 outsize=3776 kw=SHADOWS_DEPTH pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=838 outsize=884 kw=SHADOWS_DEPTH pd= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2234 outsize=3484 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF VERTEXLIGHT_ON pd= ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=2234 outsize=3516 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=2234 outsize=3094 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF VERTEXLIGHT_ON pd= ok=1
-Cmd: preprocess
-  insize=3168 outsize=829 ok=1
-Cmd: compileSnippet
-  error: 2 plat 4 at (70): invalid subscript 'normal' 'normalize': no matching 1 parameter intrinsic function; Possible intrinsic functions are: normalize(floatM|halfM|min10floatM|min16floatM)\nCompiling Vertex program with DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF
-  api=4 type=0 insize=2176 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd= ok=0
-Cmd: preprocess
-  insize=3226 outsize=830 ok=1
+  api=4 type=0 insize=3035 outsize=4093 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF VERTEXLIGHT_ON pd= ok=1
