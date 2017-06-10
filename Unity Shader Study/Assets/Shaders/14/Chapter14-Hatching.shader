@@ -35,7 +35,6 @@
 
 			fixed4 _Color;
 			float _TileFactor;
-			fixed _Outline;
 			sampler2D _Hatch0;
 			sampler2D _Hatch1;
 			sampler2D _Hatch2;
